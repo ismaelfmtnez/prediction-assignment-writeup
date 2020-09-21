@@ -114,4 +114,4 @@ confusionMatrix(NEOTesting$classe, predictionRF)
 # Perform prediction
 predictSubmission <- predict(fitRF, testing, type="class")
 predictSubmission
-```
+``` 
